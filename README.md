@@ -17,3 +17,4 @@ Modern, clean UI design
 Technologies Used:
 HTML | CSS | JavaScript
 https://github.com/jisha-christopher/PRODIGY_WD_01.git
+Live demo:https://jisha-christopher.github.io/PRODIGY_WD_01/
